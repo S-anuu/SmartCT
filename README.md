@@ -151,5 +151,22 @@ cd ..
 ####   Place your `checkpoint.pth` file in the designated backend/uploads/models/ directory OR
 ####   Upload it through the Admin → Change Model section in the web app.
 
+## Screenshots
+### Project Screenshots
+
+Below are some screenshots of the project:
+
+![Screenshot 1](screenshots/Screenshot From 2025-08-31 10-07-42.png)
+![Screenshot 2](screenshots/Screenshot From 2025-08-31 10-10-35.png)
+![Screenshot 3](screenshots/Screenshot From 2025-08-31 10-16-09.png)
+![Screenshot 4](screenshots/Screenshot From 2025-08-31 10-16-22.png)
+![Screenshot 5](screenshots/Screenshot From 2025-08-31 10-16-34.png)
+![Screenshot 6](screenshots/Screenshot From 2025-08-31 10-18-21.png)
+![Screenshot 7](screenshots/Screenshot From 2025-08-31 10-18-35.png)
+![Screenshot 8](screenshots/Screenshot From 2025-08-31 10-18-42.png)
+![Screenshot 9](screenshots/Screenshot From 2025-08-31 10-20-43.png)
+![Screenshot 10](screenshots/Screenshot From 2025-08-31 10-20-54.png)
+![Screenshot 11](screenshots/Screenshot From 2025-08-31 10-21-02.png)
+
 
 
