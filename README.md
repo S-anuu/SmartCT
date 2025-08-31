@@ -158,7 +158,7 @@ Below are some screenshots of the project:
 
 ## 📸 Screenshots
 
-![Screenshot 1]("screenshots11/")
+![Screenshot 1]("screenshots/11.png")
 ![Screenshot 2]("screenshots/1.png")
 ![Screenshot 3]("screenshots/2.png")
 ![Screenshot 4]("screenshots/3.png")
