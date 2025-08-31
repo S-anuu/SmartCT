@@ -1,0 +1,2 @@
+// otpStore.js
+module.exports = {};
