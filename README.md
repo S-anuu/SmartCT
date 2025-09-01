@@ -61,17 +61,11 @@ Training this model was particularly challenging due to **severe class imbalance
 - **Evaluation metrics**: Precision, Recall, F1-score, ROC-AUC (per organ), and confusion matrices for multi-class tasks.  
 
 ### 📊 Results
-- **Bowel Injury & Extravasation (binary tasks)**  
-  - Strong performance despite imbalance.  
-  - **F1-score ≈ 0.55–0.63**  
-  - **ROC-AUC ≈ 0.82–0.85**  
-
-- **Kidney, Liver, and Spleen Injuries (multi-class tasks)**  
-  - Much more challenging due to highly skewed distributions of “low” and “high” injury cases.  
-  - **F1-score ≈ 0.30–0.37**  
-  - **ROC-AUC ≈ 0.55–0.64**  
-
-🔎 These results highlight that **binary injury detection (present vs. absent)** is feasible and performs well, while **multi-class severity classification remains difficult under heavy imbalance**.
+- Accuracy: 82%
+- Precision: 58%
+- Recall: 53%
+- F1 Score: 53%
+- ROC-AUC: 75%
 
 ---
 
